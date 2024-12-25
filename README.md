@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rishabh6592
+- 👋 Hi, I’m Rishabh Kumar
 - 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning  React NAtive Mobile Application
+- 🌱 I’m currently learning  React Native Mobile Application
 - 💞️ I’m looking to collaborate on Web Application
 - 📫 How to reach me - rishabhkumar6592@gmail.com
 - 😄 Pronouns: ...
