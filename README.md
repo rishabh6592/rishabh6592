@@ -1,6 +1,6 @@
 - 👋 Helooo, This is Rishabh Kumar.
 - I’m interested in Web Technology.
-- And currently work in @wyrefolw technology.
+- And intern ex employee in @wyrefolw technology.
 - I’m currently learning  React Native Mobile Application.
 
 
